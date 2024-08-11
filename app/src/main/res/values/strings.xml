@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CRUDBD</string>
+    <string name="nombre">Nombre</string>
+    <string name="edad">Edad</string>
+    <string name="guardar">Guardar</string>
+    <string name="actualiza">Actualizar</string>
+    <string name="listar">Listar</string>
+    <string name="borro">Codigo Borrar/actualizar</string>
+</resources>
